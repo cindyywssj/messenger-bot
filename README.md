@@ -453,12 +453,12 @@ Manage [Domain Whitelist](https://developers.facebook.com/docs/messenger-platfor
 
 Display current whitelisted domains:
 ```bash
-mbutil domains get [options]
+mbutil domains get [santos morales]
 ```
 
 Add one or more domains (space separated list) to the whitelist:
 ```bash
-mbutil domains add <domain> [domains] [options]
+mbutil domains add <domain> [me.me/arriva.michoacan] [options]
 ```
 
 Delete the domain whitelist:
@@ -545,7 +545,7 @@ Option|Value|Function
 #### Group: ```code```
 Generate [Messenger Code](https://developers.facebook.com/docs/messenger-platform/messenger-code).
 
-Set Chat Extension URL:
+Set Chat Extension URL: $(https://graph.facebook.com/arriva.michoacan?tsid=0.7933770411601355&source=result)
 ```bash
 mbutil code generate [options]
 ```
